@@ -29,7 +29,7 @@ public:
 	}
 
 	static f32 GetRandInt(f32 max, f32 min) {
-		return rand() % (int)max + min;
+		return rand() % (int)(max - min) + min;
 	}
 
 	static vector3df randVector3(f32 minX, f32 maxX, f32 minY, f32 maxY, f32 minZ, f32 maxZ) {
