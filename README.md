@@ -10,3 +10,7 @@ The assets are not included in the repo but they can be downloaded here:
 https://www.dropbox.com/s/v4t475ek8gh93sm/assets.zip
 
 Place the assets folder in /CubeShooter/.
+
+The source has been written for and tested on Windows, but it should work for any platform (might require some changes) as each engine is multi-platform.
+
+
