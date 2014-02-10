@@ -184,3 +184,6 @@ Desktop.ini
 $RECYCLE.BIN/
 
 assets/
+*.sln
+*.vcxproj
+*.vcxproj.filters
